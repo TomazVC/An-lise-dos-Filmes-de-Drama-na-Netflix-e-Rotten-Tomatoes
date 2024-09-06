@@ -7,7 +7,7 @@ Este projeto de ciência de dados foca em uma análise avançada dos filmes de m
 ## Estrutura do Projeto
 
 - **DS_CP1_2SEMESTRE.ipynb**: Notebook principal contendo todo o código e a análise.
-- **datasets/**: Diretório onde os arquivos CSV 'netflix_titles.csv' e 'rotten_tomatoes_movies.csv' estão localizados.
+- **datasets**: Diretório onde os arquivos CSV 'netflix_titles.csv' e 'rotten_tomatoes_movies.csv' estão localizados.
 
 ## Objetivos
 
