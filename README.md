@@ -1,0 +1,1 @@
+# An-lise-dos-Filmes-de-Drama-na-Netflix-e-Rotten-Tomatoes
